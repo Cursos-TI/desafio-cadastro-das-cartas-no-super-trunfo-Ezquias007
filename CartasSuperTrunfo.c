@@ -65,7 +65,7 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", pontoturisticos1);
 
     printf("\n--- Carta 2 da Cidade ---\n");
-    printf("Carta: %c2\n", estado2[0]); //Construção da numeração da carta unindo a primeira letra da cigla do estao ao  n. da carta
+    printf("Carta: %c2\n", estado2[0]); //Construção da numeração da carta unindo a primeira      letra da cigla do estao ao  n. da carta
     printf("Estado: %s\n", estado2);
     printf("Nome da Cidade: %s\n", cidade2);
     printf("População: %d habitantes\n", populacao2);
@@ -74,3 +74,5 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", pontoturisticos2);
     return 0;
 }
+
+
